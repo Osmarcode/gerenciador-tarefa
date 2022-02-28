@@ -62,7 +62,5 @@ public class TarefaController {
 		System.out.println("Deletando tarefa através do ID");
 		return tarefaService.deletaTarefaById(id);
 	}
-	
-	
 }
 
